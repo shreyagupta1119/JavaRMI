@@ -1,0 +1,2 @@
+# JavaRMI
+practice code
